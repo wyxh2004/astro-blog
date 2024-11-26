@@ -1,5 +1,5 @@
 export const siteConfig = {
-  author: 'Kevin Wong',
+  author: 'wyxh2004',
   title: 'Vitesse theme for Astro',
   subtitle: 'Vitesse theme for Astro, supports Vue and UnoCSS.',
   description: 'A Minimal, SEO-friendly portfolio and blog theme for Astro.',
@@ -7,11 +7,11 @@ export const siteConfig = {
     src: '/hero.jpg',
     alt: 'Website Main Image',
   },
-  email: 'kevinwong865@gmail.com',
+  email: 'wyssixsixsix@gmail.com',
   socialLinks: [
     {
       text: 'GitHub',
-      href: '',
+      href: 'https://github.com/wyxh2004',
       icon: 'i-simple-icons-github',
       header: 'i-ri-github-line',
     },
